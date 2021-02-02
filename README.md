@@ -14,5 +14,4 @@
 #### Workshop on Rebase
 Change 1
 Another change
-The third Change
 I am making more changes for the branch2!
